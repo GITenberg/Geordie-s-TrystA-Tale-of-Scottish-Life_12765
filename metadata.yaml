@@ -1,0 +1,26 @@
+_repo: Geordie-s-TrystA-Tale-of-Scottish-Life_12765
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rae, Janet Milne
+    alias: Rae, Mrs. Milne
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '4561'
+    url: http://www.gutenberg.org/2009/agents/4561
+description: ''
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12765'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Scotland -- Juvenile fiction'
+- GITenberg
+title: 'Geordie''s Tryst: A Tale of Scottish Life'
+url: http://www.gutenberg.org/ebooks/12765
